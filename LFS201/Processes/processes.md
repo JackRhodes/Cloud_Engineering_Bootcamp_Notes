@@ -1,7 +1,7 @@
 A process is an instance of a program in execution. It may be in a number of different states, such as running or sleeping. Every process has a 
 
 * pid (Process ID), 
-* pid (Parent Process ID)
+* ppid (Parent Process ID)
 * pgid (Process Group Id)
 
 init is usually the first user process run on a system
